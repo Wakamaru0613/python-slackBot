@@ -1,2 +1,1 @@
-# python-slackBot
-pythonで作るslackbot
+# practice docker
